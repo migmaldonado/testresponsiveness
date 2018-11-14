@@ -155,7 +155,7 @@ p {
 
 .video_background,
 .video {
-	background: url('http://placehold.it/1920x1080') no-repeat 0 0;
+	background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat 0 0;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -191,7 +191,7 @@ p {
 	height: 100%;
 }
 .particles_effect .container {
-	background: url('http://placehold.it/1920x1080') no-repeat 0 0;
+	background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat 0 0;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -282,7 +282,7 @@ p {
 /******* Container section *******/
 
 .container {
-	background: url('http://placehold.it/1920x1080') no-repeat center center;
+	background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat center center;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -509,7 +509,7 @@ p {
 
 .features {
 	padding: 100px 0 50px;
-	background: url('http://placehold.it/1920x1080') no-repeat center center;
+	background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat center center;
 	background-size: cover;
 	background-attachment: fixed;
 	border: 0;
@@ -714,7 +714,7 @@ p {
 .statistic {
     padding: 150px 0 120px;
 	color: #000;
-	background: url('http://placehold.it/1920x1080') no-repeat center center;
+	background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat center center;
 	background-size: cover;
 	background-attachment: fixed;
 	border: 0;
@@ -842,7 +842,7 @@ p {
 .video_preview {
 	position: relative;
 	padding: 140px 0 160px;
-    background: url('http://placehold.it/1920x1080') no-repeat center center;
+    background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 	border: 0;
@@ -1028,7 +1028,7 @@ p {
 
 .promo {
     padding: 180px 0;
-	background: url('http://placehold.it/1920x1080') no-repeat center center;
+	background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat center center;
 	background-size: cover;
 	background-attachment: fixed;
 	border: 0;
@@ -1131,7 +1131,7 @@ p {
 
 .contact {
     padding: 100px 0;
-	background: url('http://placehold.it/1920x1080') no-repeat 0 0;
+	background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat 0 0;
     background-size: cover;
     background-attachment: fixed;
 	border: 0;
@@ -1141,7 +1141,7 @@ p {
 
 .subscribe {
 	padding: 170px 0 150px;
-    background: url('http://placehold.it/1920x1080') no-repeat center center;
+    background: url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 	border: 0;
@@ -1552,7 +1552,7 @@ p {
 
 .subscribe_window .uk-modal-dialog {
 	padding: 120px 30px;
-	background: #333 url('http://placehold.it/1920x1080') no-repeat center center;
+	background: #333 url('../images/cdmx-drone-pic-angel-independencia.jpg') no-repeat center center;
 	background-size: cover;
 }
 .subscribe_window .uk-modal-dialog:before {
